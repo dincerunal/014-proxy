@@ -1,0 +1,9 @@
+﻿  BitmapImage.cpp
+d:\dropbox\kurslar\havelsan-designpatternsuml-2018\src\014-proxy\bitmapimageproxylazy\project\bitmapimage.cpp(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\dropbox\kurslar\havelsan-designpatternsuml-2018\src\014-proxy\bitmapimageproxylazy\project\bitmapimage.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  BitmapImageProxy.cpp
+  sample.cpp
+  Generating Code...
+  Project.vcxproj -> D:\Dropbox\Kurslar\Havelsan-DesignPatternsUML-2018\Src\014-Proxy\BitmapImageProxyLazy\Debug\Project.exe
